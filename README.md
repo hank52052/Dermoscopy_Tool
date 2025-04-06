@@ -32,7 +32,7 @@ python.exe -m streamlit run UI_app_chinese.py
 ## 🔍 Features
 Upload skin lesion images in JPG, PNG, or JPEG formats:
 
--Predicts multiple skin conditions including:
+-Predicts multiple skin conditions including
   -Squamous Cell Carcinoma
   -Basal Cell Carcinoma
   -Benign Keratosis
