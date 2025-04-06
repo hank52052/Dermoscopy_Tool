@@ -30,7 +30,7 @@ Once the environment is ready and all files are in the same folder, run the foll
 python.exe -m streamlit run UI_app_chinese.py
 ```
 ## 🔍 Features
-Upload skin lesion images in JPG, PNG, or JPEG formats
+Upload skin lesion images in JPG, PNG, or JPEG formats:
 
 -Predicts multiple skin conditions including:
   -Squamous Cell Carcinoma
