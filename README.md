@@ -45,5 +45,4 @@ Upload skin lesion images in JPG, PNG, or JPEG formats:
 ## 📜 License
 This project is for non-commercial use only, such as academic projects or competitions.
 
-![下載](https://github.com/user-attachments/assets/b9b0d7e3-d824-48a5-8dfd-311bf5509e8b)
-
+![下載 (1)](https://github.com/user-attachments/assets/3e40f29b-adcf-4aa2-bb4f-4b12baf2b5dd)
